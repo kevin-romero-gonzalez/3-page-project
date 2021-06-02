@@ -1,0 +1,47 @@
+h1{
+ color: coral;   
+ text-align: center;
+ padding-top: 250px;
+ font-size: 75px;
+ letter-spacing: 10px;
+ font-family: 'Courier New', Courier, monospace
+}
+p{
+    color: coral;   
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+
+a{
+    text-decoration: none;
+    color: coral;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+   
+}
+.links{
+    text-align: center;
+    padding: 25px 0 10px 0;
+    background-color: rgb(107, 157, 207);
+    border:2px solid black;
+    margin: 0;
+ 
+}
+a:hover {
+    color: darkcyan;
+}
+#contact{
+    padding: 100px;
+    text-align: center;
+    font-size: 20px;
+}
+body{
+    background-image: url("3p-project-images/3p-background.webp");
+    background-color: dodgerblue;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    min-height: 100vh;
+}
